@@ -30,6 +30,16 @@ name = "About"
 url = "/about"
 weight = 4
 
+[[menu.main]]
+name = "Assets"
+url = "https://drive.google.com/drive/folders/1Bj_DNDe1r07Wz8E7pP_M-Ye1dQsIjl1b?usp=sharing"
+weight = 5
+
+[[menu.main]]
+name = "My World"
+url = "https://www.google.com/maps/d/viewer?mid=1td2yyP9BnpmvBCTUkgF_J7ToZE0&ll=46.375315237807925%2C11.618556937695253&z=4"
+weight = 6
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -70,9 +80,15 @@ weight = 4
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/yemrekeskin"
-[[params.social]]
+  [[params.social]]
     name = "twitter"
     link = "https://twitter.com/yemrekeskin"
+  [[params.social]]
+    name = "gitlab"
+    link = "https://gitlab.com/yemrekeskin"
+  [[params.social]]
+    name = "bitbucket"
+    link = "https://bitbucket.org/yemrekeskin"
   [[params.social]]
     name = "email"
     link = "yemrekeskin@gmail.com"  # no need for "mailto:" in the head
