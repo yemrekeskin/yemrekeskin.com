@@ -4,7 +4,7 @@ title = "build notes"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
-# googleAnalytics = "UA-1234-5"
+# googleAnalytics = "G-LRBE885XQ1"
 
 
 # summaryLength = 2
@@ -83,3 +83,6 @@ weight = 4
   [[params.social]]
     name = "email"
     link = "yemrekeskin@gmail.com"  # no need for "mailto:" in the head
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
