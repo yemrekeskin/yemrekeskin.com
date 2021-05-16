@@ -1,0 +1,189 @@
+---
+title: Scrum Workshop
+date: 2020-02-01 18:00:00
+tags: 
+    - scrum
+---
+
+![agile methodology](/2020-02/workshop.png)
+
+**AgileStudio**'nun verdiği agile-scrum eğitimlerinden sonra [scrum.org](https://www.scrum.org/)'un **PSM-1** sınavına çalışmaya başladım. Bireysel çalışmanın yanısıra akbank içerisinde bu sınava hazırlanan arkadaşlar ile birlikte toplaşıp sınav odaklı bir workshop yaptık. Bu workshopta sınavda çıkabilecek sorular çözmeye çalıştık ve cevaplar üzerine konuştuk. Kollektif bir şekilde yaptığımız bu çalışmalar gerçekten çok faydalı geçti.En önemli konulardan biri akbank pratikleri ile gerçekte olması gerekeni ayırt etmekti. Soruları çözerken cevaplara bu açıdan bakmakta fayda var.
+
+Bu yazımda önemli olduğunu düşündüğün bazı soruları listeleyeceğim.
+
+Hadi Başlayalım 🚀
+
+- Daily scrum, Sprint planlama ve Sprint review toplantılarına scrum takımının dışından kişiler katılabilir,
+- Sprint planlama toplantısına development takımı teknik ve domain uzman görüşünü almak için davet edebilir,
+- Sprint Review toplantısına product owner paydaşları çağırabilir,
+- Product Owner’ın temel özellikleri
+    - Ürün değerini maximize eder,
+    - Kilit paydaş katılımını kolaylaştırıcıdır
+    - Ürün Pazar Uzmanı
+- Üst düzey hedeflere yönelik ilerlemeyi izlemek Product Owner görevidir,
+- Her sprint aslında bir projedir,
+- Sprint retro toplantısında scrum takımı yapılabilecek bazı iyileştirmeleri belirler, bu belirtilen iyileştirmeler için bir aksiyon listesi oluşturulur ve sonraki - sprint’e en azından bir iyileştirme maddesi dahil edilir, tüm maddeleri tek bir sprint de almak yerine sonraki sprint lere yaymak scrum takımının için sürekli iyileştime - yapmasını sağlar,
+- Sprint iptali sadece product owner sorumluluğundadır,
+- Increment sadece geliştirme takımı yapar, sadece geliştirme takımı sprint koşar anlamına gelir,
+- Scrum’ın özü nedir ?
+    - Oldukça esnek ve uyarlanabilir küçük takımlardır,
+- Scrum çatısı neleri içerir ?
+    - Roller,
+    - Kurallar,
+    - Eserler,
+    - Etkinlikler
+- Ürün iş listesinde tüm tahminlerden kim sorumludur ?
+    - Product Owner tahmin yapmaz, bu sorumluluk development team dedir,
+- Aynı ürün üzerinde çalışan scrum takımları farklı sprint byutlarına sahip olabilirler, Örneğin bir bankanın IT departmanında krediler bölümü 2haftalık sprint koşarken, - operasyonel yükü fazla olan bir başka ekip 1 aylık sprint koşabilir,
+- Ürün İş Listesi ayrıntılandırması genellikle Geliştirme Takımı’nın kapasitesinin hangi kısmını tüketir ?
+    - Geliştirme takımının kapasitesinin %10 undan fazla olmayacak şekilde,
+    - Product Backlog Refinement da geliştirme takımıda olur,
+- Scrum’daki ekip modelinin optimize etmek için tasarlandığı üç ana özellik nedir ?
+    - Productivity – Üretkenlik
+    - Creativity – Yaratıcılık
+    - Flexibility – Esneklik
+- Daily Scrum daki time-box development team boyutuna göre değişmez 15 dk. dır.
+- Scrum’ın 5 değeri nelerdir ?
+    - Openness – Açıklık
+    - Focus – Odaklanma
+    - Respect – Saygı
+    - Courgae – Cesaretli olma
+    - Commitment – Taahhüt etmek
+- Scrum Master organizasyona bir kaç şekilde hizmet edebilir ?
+    - Scrum’ı benimsenmesinde organizayona koçluk ve liderlik eder,
+    - Organizasyon içerindeki scrum etkinliklerini planlar,
+    - Scrum takımının üretkenliğini arttırmak için değişikliklere sebep olur,
+    - Organizasyon içerisindeki scrum’ın etkinliliğini arttırmak için diğer scrum master’lar ile çalışır,
+    - Deneysel ürün geliştirmeyi anlama ve yürülüğe koyma konusunda paydaşlara ve müşterilere yardımcı olur,
+- Scrum ın tanıtılmasından ve desteklenmesinden kim sorumludur ?
+    - Scrum Master
+- Sprint Backlog sprint planlama toplantısında geliştirme takımı ile birlikte oluşturulur, Sprint boyunca sprint backlog’a yeni işler eklenebilir,
+- Sprint planlama toplantısına teknik ve domain tavsiyesi almak için başka insanlarda katılabilir,
+- Scrum kullanıcıları , scrum eserlerini ve sprint hedefine doğru ilerlemenin gözlemlenmesini ne sıklıkla yapmalıdırlar ?
+    - Sıklıkla yapmalıdırlar, fakat bu işin önüne geçmemeli,
+- Sprint sadece sprint hedefini gerçekleştirmek anlamsız hale geldiğinde iptal edilebilir,
+- Sprint planlamanın girdisi (input) nedir ?
+    - Product Backlog
+    - Son ürün arttırımı
+    - Sprint boyunda geliştirme takımının öngörülen kapasitesi
+    -  Geliştirme takımının geçmiş performansı
+- Bir çok geliştirme takımı aynı ürün üzerinde geliştirme yapıyorlar ise aynı product backlog kullanılır,
+- Scrum Master Geliştirme takımına nasıl hizmet eder ?
+    - Kendi-kendine organize olma ve cross-functional olma konularında koçluk etmek,
+    - Yüksek değerli ürün geliştirmek için  yardım eder,
+    - Geliştirme takımının üzerindeki (impediment) engelleri kaldırır,
+    - ihtiyaç olduğunda ve istendiğinde scrum etkinliğini yapmaya yardımcı olur ve kolaylaştırır,
+- Product Backlog üzerinde kimler değişiklik yapabilir ?
+    - Product Owner
+    - Development Team – Product Owner izin verdiğinde
+- Incerement – Artırım nedir ?
+    - Sprint sırasında tamamlanan ürün iş listesi kalemlerinin toplamı
+    - Önceki sprint’lerin artışların değeri
+- Sprint planlama toplantısı için time-box 8 saattir, fazla olmaz
+- Daily-Scrum ‘ın yapısı sabit değildir, sprint hedefine ulaşmak için geliştirme takımı kendine bir yöntem belirleyebilir,
+- Scrum Master ve Product Owner geliştirme takımının bir parçası olabilir,
+- Scrum-Master Daily-Scrum ile ilgili hangilerini yapar ?
+    - Geliştirme takımının daily-scrum yaptığından emin olur,
+    - Daily-scrum ‘ın 15 dk sürmesinden emin olur,
+    - Daily-scrum da başkları varsa toplantıyı aksatmamalarını sağlar,
+- Scrum ı destekleyen 3 unsur nelerdir ?
+    - Adaptation – Adaptasyon
+    - Inspection – Gözlem
+    - Transparency – Şeffaflık
+- Scrum daki tüm etkinlikler time-box a sahiptir, Bunun anlamı max bir sınırdır, scrum guide bir min sınır belirlemez, Takım olgunlaştıkça bazı etkinlikler kısa sürebilir. - Örneğin ; sprint-retro, sprint planlama
+- Geliştirme takımı sprint-planlama toplantısının sonunda sprint hedefine ve bu hedefe nasıl ulaşacağını scrum master ve product-owner a açıklayabilmeli,
+- Product Backlog sorumluluğu product-owner üzerindedir,
+- “Definition of Done” tanımı için nelere dikkat edilmelidir ?
+    - Aynı ürün üzerinde çalışan diğer scrum takımlarının DoD larına,
+    - Organizasyonun sözlemelerine, standarlatına ve yönetmeliklerine,
+- Scrum içerisindeki “development” neyi ifade eder ?
+    - Önerilen tüm seçenekleri ve daha fazlasını içerebilen karmaşık işler
+- Scrum-Master öncelikle scrum takımına hizmet eder ve odaklanır, scrum takımı dışındakileri umursamaz !
+    - Hayır scrum-master himzetkar liderdir,
+    - Scrum Master, Scrum Takımı dışındaki kişilerin Scrum Takımı ile olan etkileşimlerinin hangilerinin yararlı ve hangilerinin işe yaramadığını anlamalarına yardımcı olur.
+    - Scrum Master, Scrum Takımı tarafından yaratılan değeri en üst düzeye çıkarmak için herkesin bu etkileşimleri değiştirmesine yardımcı olur.
+- Scrum’ı benimsemeye çalışan küçük bir Organizasyonda bir Scrum Master olduğunuzu düşünün. 10 geliştirici ve Ürün Sahibi var. Takımı nasıl ayırabilirsiniz ?
+    - Development-team üye sayısı 3-9 arasında olmalıdır,
+    - Her takım self-organized ve cross-functional olmalıdır,
+    - En uygun geliştirme takımı
+        - sprint içerisinde önemli işleri bitirecek kadar büyük,
+        - çevik kalacak kadar küçük olmalı,
+    - 4 + 3 + 3 = 3 Takım
+    - 6 + 4 = 2 Takım
+- Sprint süresince
+    - Sprint hedefini tehlikeye sokacak hiç bir değişiklik yapılmaz,
+    - Kalite hedefleri azaltılmaz,
+    - Kapsam, Ürün Sahibi ile Geliştirme Ekibi arasında daha fazla bilgi edindikçe açıklığa kavuşturulabilir ve yeniden müzakere edilebilir,
+- Sprint Backlog nedir ?
+    - Sprint için seçilen ürün iş listesi
+    - Seçilen işleri teslim etme planı
+- Sprint-Retro nun amacı nedir ?
+    - Son sprint in ilişkiler, insanlar, araçlar ve süreç açısından nasıl gittiğinin incelenmesi,
+    - İyi giden ana öğeleri ve potansiyel geliştirmeleri belirlemek,
+    - Scrum ekibinin çalışma biçimi hakkında iyileştirmelek uygulamak,
+- Sprint planlaması yalnızca sprint’in ilk günleri için planlanan çalışma bir gün veya daha kısa birimlere ayrılırsa bitebilir mi ?
+    - Evet, eğer kalan çalışma da tahmin edilirse sonradan ayrıştırılabilir,
+- Aşağıdakilerin hangisi sadece Geliştirme takımına aittir ?
+    - Sadece Sprint-Backlog geliştirme ekibine aittir,
+    - Sprint boyunca sprint-backlog development-team tarafından değiştirilebilir,
+- Konuşulacak ilginç şeyler yok ise daily-scrum atlanabilir mi ?
+    - Scrum içerisindeki her etkinlik bir şeyleri uygulamak ve uyarlamak için resmi bir fırsattır,
+- Ürün üzerinde değişiklik yapılması için bir gereksinim kaynağı hangisidir ?
+    - Product Backlog
+- Scrum Eserleri nelerdir ?
+    - Product Backlog
+    - Sprint Backlog
+    - Definition of Done – DoD
+    - Increment
+- Sprint Hedefine ulaşma olasılığını yansıtmak için Sprint İş Listesinde kalan toplam çalışmayı izlemek kimin sorumluluğundadır?
+    - Development-Team
+- Sprint Planlamada sprint hedefini belirlemekten kim sorumludur ?
+    - Scrum Takımı – Product Owner, Development Team, Scrum Master
+- Daily-Scrum toplantısına katılıma kim izin verir ?
+    - Development-Team
+- Development-Team karakteristik özellikleri nelerdir ?
+    - Scrum geliştirme takımı üyeleri için giç bir ünvan tanımaz
+    - Scrum geliştirme takımı içersinde hiç bir alt scrum takımı tanımaz,
+    - Geliştirme takımı kend-kendini yöneten takımdır ve cross-functional özelliğe sahiptir,
+    - Hesap verilebilirlik bütün olarak geliştirme takımına aittir,
+- Eksik ve yapaylık ile başa çıkmaktan kim sorumludur ?
+    - Yani scrum etkinlikler ve toplantılar sadece yapılmak için değil hakkını vererek ve etkisine, faydasına inanarak yapılmalı, Eğer sadece yapılmak için yapılıyor ise sorumlusu scrum-master dır.
+- Product-Backlog özellikleri nelerdir ?
+    - Dinamiktir,
+    - Bir product-backlog asla tamamlanmaz,
+    - Product-Backlog , kullanılacak ürün  ve ortam geliştikçe gelişir,
+    - Ürün olduğu sürece product-backlog da vardır,
+    - Uygun, rekabetçi ve faydalı olması için ürünün ihtiyaçları sürekli değişir,
+- DoD scrum takımına nasıl yardımcı olur ?
+    - DoD, ürün artışı (increment) üzerinde çalışmanın ne zaman tamamlandığını değerlendirmek için kullanılır,
+    - DoD, scrum eserlerine şeffaflık sağlar,
+    - DoD, bir sprint planlama sırasında kaç Ürün İş Listesi öğesini seçilmesi konusunda Geliştirme Ekibine rehberlik eder,
+- Sprint-Review toplantısnın sonucu nedir ?
+    - Bir sonraki Sprint için olası Ürün İş Listesi maddelerini tanımlayan gözden geçirilmiş bir Ürün İş Listesi
+    - Scrum, Scrum’da tanımlı olmayan ek toplantılara izin vermez.
+    - Scrum, Sprint Hedefine ulaşmayı kolaylaştırırlarsa ek toplantılara izin verir.
+- Belirsizlik konisi (cone of uncertainty) neyi gösterir ?
+    - Belirsizlik Konisi, bir proje sırasında belirsizlik miktarının gelişimini açıklar.
+    - Her Sprint Retrospektifi sırasında, Scrum Ekibi, uygunsa ve ürün veya organizasyon standartlarıyla çelişmese de, iş süreçlerini iyileştirerek veya “Tamamlandı” tanımını - uyarlayarak ürün kalitesini artırmanın yollarını planlar.
+- Kilit Paydaşların hangi toplantılara katılmasına izin verilir ?
+    - Sprint-review
+- Sprint-Review toplantısına kimler katılabilir ?
+    - PO, DT, SM ve Kilit paydaşlar
+- Hangileri gözlem (Inspect) ve adaptasyon (adaptation) için resmi bir fırsattır ?
+    - sprint planlama
+    - sprint-review
+    - daily-scrum
+    - sprint-retro
+- Müfettiş (gözlemci), bir sürecin bir veya daha fazla yönünün kabul edilebilir sınırların dışına saptığını tespit ederse, ne zaman ayarlama yapılmalıdır ?
+    - Daha fazla sapmayı en aza indirmek için en kısa zamanda
+    - Sprint-Review = 4 saat  – Sprint Retor = 3 saat
+- DoD tanımlanmasından kim sorumludur ?
+    - Development-Team
+- Burn-Down chart grafiği neyi gösterir ?
+    - Burn-down grafiği zamana karşı kalan işlerin gelişimini göstermektedir.
+
+
+Yoğun bir çalışmanın ardından sonunda sınavı geçtim. ✔️
+
+![agile methodology](/2020-02/certificate.png)
+
