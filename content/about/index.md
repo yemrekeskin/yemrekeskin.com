@@ -20,7 +20,7 @@ I have traveled to many places around the **[world](https://www.google.com/maps/
 **High School**\
 2005-2008, Software, Tuzla Technical High School
 
-## My Tech Stack
+## Tech Stack
 -> Programming Languages : C#, Java, Typescript, Javascript \
 -> Frontend Development : Html, SCSS, Angular, Gulp, Bootstrap \
 -> Backend Development : NodeJs, ExpressJs \
