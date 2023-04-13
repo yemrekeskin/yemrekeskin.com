@@ -5,7 +5,7 @@ date: 2016-08-24 17:51:42
 
 ![avatar](/avatar.png)
 
-Hi there 👋, I'm yunus emre. A passionate full-stack developer from Turkey, Istanbul.I design and build web applications for finance institutions and I love 💙 what I do. Currently have been working as a application architect in **[akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx)**.
+Hi there 👋, I'm yunus emre. A passionate full-stack developer from Turkey, Istanbul.I design and build web applications for various clients and I love 💙 what I do. I currently am currently working as a application architect in **[akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx)**.
 
 I've wrote code 👨🏽‍💻 on bank projects like Akbank, DenizbankAG, Sberbank Europe AG, ZiraatBank AG and have been in great teams.You can access variety **[documents](https://drive.google.com/drive/folders/1Bj_DNDe1r07Wz8E7pP_M-Ye1dQsIjl1b)** like certificates, badges, training and licence docs related to me.
 
