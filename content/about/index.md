@@ -5,11 +5,11 @@ date: 2016-08-24 17:51:42
 
 ![avatar](/avatar.png)
 
-Hi there 👋, I'm yunus emre. A passionate full-stack developer from Turkey, Istanbul.I design and build web applications for various clients and I love 💙 what I do. I currently am currently working as a application architect in **[akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx)**.
+Hi there 👋, I'm yunus emre. A passionate full-stack developer from Turkey, Istanbul.I design and build web applications for various clients and I love 💙 what I do. I am currently currently working as a application architect in **[akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx)**.
 
-I've wrote code 👨🏽‍💻 on bank projects like Akbank, DenizbankAG, Sberbank Europe AG, ZiraatBank AG and have been in great teams.You can access variety **[documents](https://drive.google.com/drive/folders/1Bj_DNDe1r07Wz8E7pP_M-Ye1dQsIjl1b)** like certificates, badges, training and licence docs related to me.
+I've written code 👨🏽‍💻 on bank projects like Akbank, DenizbankAG, Sberbank Europe AG, ZiraatBank AG and have been in great teams. You can access various **[documents](https://drive.google.com/drive/folders/1Bj_DNDe1r07Wz8E7pP_M-Ye1dQsIjl1b)** like certificates, badges, training and licence docs related to me.
 
-I have traveled to many places around the **[world](https://www.google.com/maps/d/viewer?mid=1td2yyP9BnpmvBCTUkgF_J7ToZE0&ll=46.375315237807925%2C11.618556937695253&z=4)** and I want to travel more 🌎. I like taking pictures, though who doesn't, here is great **[photos](https://photos.app.goo.gl/dFTiYuKQit1PwphE7)** with my colleagues.
+I have travelled to many places around the **[world](https://www.google.com/maps/d/viewer?mid=1td2yyP9BnpmvBCTUkgF_J7ToZE0&ll=46.375315237807925%2C11.618556937695253&z=4)** and I want to travel more 🌎. I like taking pictures, though who doesn't, here are great **[photos](https://photos.app.goo.gl/dFTiYuKQit1PwphE7)** with my colleagues.
 
 📄 **[Download CV](https://drive.google.com/file/d/1i9Tu_DA2Xl1F3HCcxVak-akdpL7q9msH/view?usp=sharing)**
 
